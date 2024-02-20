@@ -1,0 +1,1 @@
+We need a machine learning model that can accurately estimate the relationship between speed and the rates. As you may remember, the regression model is not accurate enough, so we need a more advanced model (we need a model that passes through almost all the data points as shown in your graph).
